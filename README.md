@@ -1,2 +1,2 @@
-# 7D2D
+# Mods
 Modlet Collection
